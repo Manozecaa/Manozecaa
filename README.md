@@ -1,4 +1,4 @@
-## Ola!!Me Chamo Ezequeil Teixeira!!
+## Ola!!Me Chamo Ezequiel Teixeira!!
 
 - 🔭 Hoje em dia sou estagiario e trabalho com suporte tecnico na area de TI
 - 🌱 Estudando JavaScript ,React ,HTML e CSS 
