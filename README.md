@@ -3,7 +3,6 @@
 - 🔭 Hoje em dia sou estagiario e trabalho com suporte tecnico na area de TI
 - 🌱 Estudando JavaScript ,React ,HTML e CSS 
 - 📫 Qualquer contato pelo email: ezequielt271@gmail.com
-- 😄 Pronouns: Ele
 
 <div align="center">
   <a href="https://github.com/manozecaa">
