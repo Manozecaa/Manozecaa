@@ -1,7 +1,7 @@
 ## Ola!!Me Chamo Ezequiel Teixeira!!
 
 - 🔭 Hoje em dia sou estagiario e trabalho com suporte tecnico na area de TI
-- 🌱 Estudando JavaScript ,React ,HTML e CSS 
+- 🌱 Estudando JavaScript ,React ,HTML, CSS e PHP  
 - 📫 Qualquer contato pelo email: ezequielt271@gmail.com
 
 <div align="center">
