@@ -1,7 +1,7 @@
 ## Ola!!Me Chamo Ezequiel Teixeira!!
 
-- 🔭 Hoje em dia sou estagiario e trabalho com suporte tecnico na area de TI
-- 🌱 Estudando JavaScript ,React ,HTML, CSS e PHP  
+- 🔭 Hoje em dia sou Tecnico e trabalho com suporte tecnico na area de TI, mexo atualmente com JavaScript,HTML e CSS
+- 🌱 Estudando PHP, Laravel e MySQL
 - 📫 Qualquer contato pelo email: ezequielt271@gmail.com
 
 <div align="center">
@@ -16,6 +16,7 @@
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Laravel" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 </div>
   
 <div> 
