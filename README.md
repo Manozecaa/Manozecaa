@@ -1,6 +1,6 @@
 ## Ola!!Me Chamo Ezequiel Teixeira!!
 
-- 🔭 Hoje em dia sou Tecnico e trabalho com suporte tecnico na area de TI, mexo atualmente com JavaScript,HTML e CSS
+- 🔭 Hoje em dia sou Tecnico e trabalho com suporte tecnico na area de TI, mexo atualmente com JavaScript, HTML, CSS, PHP(Laravel) e My SQL
 - 🌱 Estudando PHP, Laravel e MySQL
 - 📫 Qualquer contato pelo email: ezequielt271@gmail.com
 
